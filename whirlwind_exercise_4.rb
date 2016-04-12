@@ -1,4 +1,4 @@
-#My try
+#First try
 # classroom = []
 # odd_classroom = []
 # done = false
@@ -25,7 +25,7 @@
 #   p odd_classroom[-1][-2 + -1]
 # end
 
-#----Teachers Solution ----
+#----Second Try ----
 
 #collect a list of names from the user into an array
 #mix up the array of names
@@ -33,7 +33,7 @@
 #odd number of names the last group = 3
 
 
-puts "Enter names of students and I'll make groups"
+puts "Enter names of students and I'll make groups, type 'done' when you're done"
 puts ""
 
 names = []
